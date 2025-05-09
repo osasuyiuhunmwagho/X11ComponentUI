@@ -15,3 +15,11 @@ The FlowPanel System is a lightweight, dynamic UI framework built with **X11 gra
 1. Compile with the included Makefile:
    ```bash
    make
+2. Run the Program:
+   ```bash
+   ./a2
+📂 File Structure
+Core Components: TextArea, FlowPanel, CuWindow
+Utilities: TAArray, PanelArray, Tester, TestControl
+Main Program: main.cc
+Build System: Makefile
